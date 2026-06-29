@@ -29,6 +29,27 @@ Route::get('/nosotros', function () {
     return view('about');
 });
 
-Route::get('/ControldeRoedores', function () {
-    return view('ControldeRoedores');
+Route::get('/controldeRoedores', function () {
+    return view('controldeRoedores');
+});
+
+Route::get('/insectosRastrerosYVoladores', function () {
+    return view('insectosRastrerosYVoladores');
+});
+
+Route::get('/sanidadeInocuidadIndustrial', function () {
+    return view('sanidadeInocuidadIndustrial');
+});
+
+
+Route::get('/monitoreoYControlDeAves', function () {
+    return view('monitoreoYControlDeAves');
+});
+
+Route::get('/tratamientosEspecialesEnMadera', function () {
+    return view('tratamientosEspecialesEnMadera');
+});
+
+Route::get('/manejoDePlagaAlmacenada', function () {
+    return view('manejoDePlagaAlmacenada');
 });

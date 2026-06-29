@@ -132,12 +132,12 @@
 				<div class="service-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="{{ url('/ControldeRoedores') }}"><img src="{{ asset('images/resource/service-8.jpg') }}" alt="" /></a>
+							<a href="{{ url('/controldeRoedores') }}"><img src="{{ asset('images/resource/service-8.jpg') }}" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h3><a href="{{ url('/ControldeRoedores') }}">Control de Roedores</a></h3>
-							<div class="text">Implementamos cordones sanitarios avanzados y sistemas de captura múltiple con cebaderos inviolables. Monitoreamos perímetros interiores y exteriores bajo normativas estrictas para erradicar cualquier riesgo de infestación en su planta.</div>
-							<a href="{{ url('/ControldeRoedores') }}" class="read-more">Leer más</a>
+							<h3><a href="{{ url('/controldeRoedores') }}">Control de Roedores</a></h3>
+							<div class="text">Implementamos cordones sanitarios avanzados y sistemas de captura múltiple con cebaderos inviolables. Monitoreamos perímetros interiores y exteriores bajo normativas estrictas.</div>
+							<a href="{{ url('/controldeRoedores') }}" class="read-more">Leer más</a>
 						</div>
 					</div>
 				</div>
@@ -146,12 +146,12 @@
 				<div class="service-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp" data-wow-delay="250ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="office-interior.html"><img src="images/resource/service-9.jpg" alt="" /></a>
+							<a href="{{ url('/insectosRastrerosYVoladores') }}"><img src="images/resource/service-9.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h3><a href="office-interior.html">Insectos Rastreros y Voladores</a></h3>
-							<div class="text">Aplicamos tratamientos residuales dirigidos y tecnología ULV con piretrinas naturales en áreas operativas. Protegemos de forma mensual y semestral zonas clave como comedores, lockers, oficinas y líneas de proceso.</div>
-							<a href="office-interior.html" class="read-more">Read more</a>
+							<h3><a href="{{ url('/insectosRastrerosYVoladores') }}">Insectos Rastreros y Voladores</a></h3>
+							<div class="text">Aplicamos tratamientos residuales dirigidos y tecnología ULV con piretrinas naturales en áreas operativas. Protegemos de forma mensual y semestral zonas clave como lockers, oficinas y líneas de proceso.</div>
+							<a href="{{ url('/insectosRastrerosYVoladores') }}" class="read-more">Leer más</a>
 						</div>
 					</div>
 				</div>
@@ -160,12 +160,12 @@
 				<div class="service-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="commercial-interior.html"><img src="images/resource/service-10.jpg" alt="" /></a>
+							<a href="{{ url('/sanidadeInocuidadIndustrial') }}"><img src="images/resource/service-10.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h3><a href="commercial-interior.html">Sanidad e Inocuidad Industrial</a></h3>
+							<h3><a href="{{ url('/sanidadeInocuidadIndustrial') }}">Sanidad e Inocuidad Industrial</a></h3>
 							<div class="text">Diseñamos   programas  preventivos   auditables   y  desinfecciones  profundas  contra hongos y bacterias. Ofrecemos soporte total ante auditorías integrando carpetas técnicas completas con registros ante COFEPRIS.</div>
-							<a href="commercial-interior.html" class="read-more">Read more</a>
+							<a href="{{ url('/sanidadeInocuidadIndustrial') }}" class="read-more">Leer más</a>
 						</div>
 					</div>
 				</div>
@@ -174,12 +174,12 @@
 				<div class="service-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="hospitality-design.html"><img src="images/resource/service-11.jpg" alt="" /></a>
+							<a href="{{ url('/monitoreoYControlDeAves') }}"><img src="images/resource/service-11.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h3><a href="hospitality-design.html">Monitoreo y Control de Aves</a></h3>
+							<h3><a href="{{ url('/monitoreoYControlDeAves') }}">Monitoreo y Control de Aves</a></h3>
 							<div class="text">Implementamos programas de revisión visual y barreras físicas para evitar el asentamiento de aves en accesos continuos. Incluye la instalación estratégica de espantapájaros esféricos colgantes con tecnología holográfica e iridiscente en andenes de carga.</div>
-							<a href="hospitality-design.html" class="read-more">Read more</a>
+							<a href="{{ url('/monitoreoYControlDeAves') }}" class="read-more">Leer más</a>
 						</div>
 					</div>
 				</div>
@@ -188,12 +188,12 @@
 				<div class="service-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp" data-wow-delay="250ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="modern-furniture.html"><img src="images/resource/service-12.jpg" alt="" /></a>
+							<a href="{{ url('/tratamientosEspecialesEnMadera') }}"><img src="images/resource/service-12.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h3><a href="modern-furniture.html">Tratamientos Especiales en Madera</a></h3>
-							<div class="text">Brindamos soluciones correctivas y preventivas contra plagas destructoras de estructuras y tarimas. Aplicamos métodos avanzados para erradicar y controlar de manera definitiva la presencia de termitas, polilla, barrenador y fauna asociada.</div>
-							<a href="modern-furniture.html" class="read-more">Read more</a>
+							<h3><a href="{{ url('/tratamientosEspecialesEnMadera') }}">Tratamientos Especiales en Madera</a></h3>
+							<div class="text">Brindamos soluciones correctivas y preventivas contra plagas destructoras de estructuras y tarimas. Aplicamos métodos avanzados para erradicar y controlar de manera definitiva la presencia de termitas.</div>
+							<a href="{{ url('/tratamientosEspecialesEnMadera') }}" class="read-more">Leer más</a>
 						</div>
 					</div>
 				</div>
@@ -202,12 +202,12 @@
 				<div class="service-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="modular-kitchen.html"><img src="images/resource/service-13.jpg" alt="" /></a>
+							<a href="{{ url('/manejoDePlagaAlmacenada') }}"><img src="images/resource/service-13.jpg" alt="" /></a>
 						</div>
 						<div class="lower-content">
-							<h3><a href="modular-kitchen.html">Manejo de Plaga Almacenada</a></h3>
+							<h3><a href="{{ url('/manejoDePlagaAlmacenada') }}">Manejo de Plaga Almacenada</a></h3>
 							<div class="text">Desarrollamos e implementamos sistemas especializados para proteger materias primas y productos terminados dentro de bodegas y almacenes. Evaluamos los riesgos geográficos para evitar mermas causadas por insectos propios del almacenamiento industrial.</div>
-							<a href="modular-kitchen.html" class="read-more">Read more</a>
+							<a href="{{ url('/manejoDePlagaAlmacenada') }}" class="read-more">Leer más</a>
 						</div>
 					</div>
 				</div>
