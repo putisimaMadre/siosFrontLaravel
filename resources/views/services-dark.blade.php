@@ -67,7 +67,7 @@
                             <div class="collapse navbar-collapse clearfix" id="navbarSupportedContent">
                                 <ul class="navigation clearfix">
                                     <li><a href="{{ url('/index') }}">Inicio</a></li>
-									<li><a href="{{ url('/about') }}">Quienes Somos</a></li>
+									<li><a href="{{ url('/nosotros') }}">Quienes Somos</a></li>
                                     <li class="current"><a href="{{ url('/servicios') }}">Nuestros Servicios</a></li>
                                 </ul>
                             </div>

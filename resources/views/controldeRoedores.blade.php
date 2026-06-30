@@ -38,7 +38,7 @@
                 <div class="top-right clearfix">
                     <!-- Info List -->
 					<ul class="info-list">
-                        <li><a href="{{ url('/about') }}">Nuestra historia</a></li>
+                        <li><a href="{{ url('/nosotros') }}">Nuestra historia</a></li>
 						<li class="quote"><a href="#">Contactanos</a></li>
                     </ul>
                 </div>
@@ -70,9 +70,9 @@
                                 <ul class="navigation clearfix">
                                     <li><a href="{{ url('/index') }}">Inicio</a>
                                     </li>
-									<li><a href="{{ url('/about') }}">Quienes Somos</a>
+									<li><a href="{{ url('/nosotros') }}">Quienes Somos</a>
                                     </li>
-                                    <li class="current"><a href="{{ url('/services-dark') }}">Nuestros Servicios</a>
+                                    <li class="current"><a href="{{ url('/servicios') }}">Nuestros Servicios</a>
                                     </li>
                                 </ul>
                             </div>
@@ -178,11 +178,11 @@
 							<!-- Services List -->
 							<ul class="services-list">
 								<li class="active"><a href="{{ url('/controldeRoedores') }}">Control de Roedores</a></li>
-								<li><a href="office-interior.html">Insectos Rastreros y Voladores</a></li>
-                                <li><a href="commercial-interior.html">Sanidad e Inocuidad Industrial</a></li>
-								<li><a href="hospitality-design.html">Monitoreo y Control de Aves</a></li>
-								<li><a href="modern-furniture.html">Tratamientos Especiales en Madera</a></li>
-								<li><a href="modular-kitchen.html">Manejo de Plaga Almacenada</a></li>
+								<li><a href="{{ url('/insectosRastrerosYVoladores') }}">Insectos Rastreros y Voladores</a></li>
+                                <li><a href="{{ url('/sanidadeInocuidadIndustrial') }}">Sanidad e Inocuidad Industrial</a></li>
+								<li><a href="{{ url('/monitoreoYControlDeAves') }}">Monitoreo y Control de Aves</a></li>
+								<li><a href="{{ url('/tratamientosEspecialesEnMadera') }}">Tratamientos Especiales en Madera</a></li>
+								<li><a href="{{ url('/manejoDePlagaAlmacenada') }}">Manejo de Plaga Almacenada</a></li>
 							</ul>
 						</div>
 					
