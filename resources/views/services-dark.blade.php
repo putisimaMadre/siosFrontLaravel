@@ -132,7 +132,7 @@
 				<div class="service-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="{{ url('/controldeRoedores') }}"><img src="{{ asset('images/resource/service-8.jpg') }}" alt="" /></a>
+							<a href="{{ url('/controldeRoedores') }}"><img src="{{ asset('images/resource/service-8.png') }}" alt="" /></a>
 						</div>
 						<div class="lower-content">
 							<h3><a href="{{ url('/controldeRoedores') }}">Control de Roedores</a></h3>
@@ -146,7 +146,7 @@
 				<div class="service-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp" data-wow-delay="250ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="{{ url('/insectosRastrerosYVoladores') }}"><img src="images/resource/service-9.jpg" alt="" /></a>
+							<a href="{{ url('/insectosRastrerosYVoladores') }}"><img src="images/resource/service-9.png" alt="" /></a>
 						</div>
 						<div class="lower-content">
 							<h3><a href="{{ url('/insectosRastrerosYVoladores') }}">Insectos Rastreros y Voladores</a></h3>
@@ -160,7 +160,7 @@
 				<div class="service-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="{{ url('/sanidadeInocuidadIndustrial') }}"><img src="images/resource/service-10.jpg" alt="" /></a>
+							<a href="{{ url('/sanidadeInocuidadIndustrial') }}"><img src="images/resource/service-10.png" alt="" /></a>
 						</div>
 						<div class="lower-content">
 							<h3><a href="{{ url('/sanidadeInocuidadIndustrial') }}">Sanidad e Inocuidad Industrial</a></h3>
@@ -174,7 +174,7 @@
 				<div class="service-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="{{ url('/monitoreoYControlDeAves') }}"><img src="images/resource/service-11.jpg" alt="" /></a>
+							<a href="{{ url('/monitoreoYControlDeAves') }}"><img src="images/resource/service-11.png" alt="" /></a>
 						</div>
 						<div class="lower-content">
 							<h3><a href="{{ url('/monitoreoYControlDeAves') }}">Monitoreo y Control de Aves</a></h3>
@@ -188,7 +188,7 @@
 				<div class="service-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp" data-wow-delay="250ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="{{ url('/tratamientosEspecialesEnMadera') }}"><img src="images/resource/service-12.jpg" alt="" /></a>
+							<a href="{{ url('/tratamientosEspecialesEnMadera') }}"><img src="images/resource/service-12.png" alt="" /></a>
 						</div>
 						<div class="lower-content">
 							<h3><a href="{{ url('/tratamientosEspecialesEnMadera') }}">Tratamientos Especiales en Madera</a></h3>
@@ -202,7 +202,7 @@
 				<div class="service-block-three col-lg-4 col-md-6 col-sm-12">
 					<div class="inner-box wow fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms">
 						<div class="image">
-							<a href="{{ url('/manejoDePlagaAlmacenada') }}"><img src="images/resource/service-13.jpg" alt="" /></a>
+							<a href="{{ url('/manejoDePlagaAlmacenada') }}"><img src="images/resource/service-13.png" alt="" /></a>
 						</div>
 						<div class="lower-content">
 							<h3><a href="{{ url('/manejoDePlagaAlmacenada') }}">Manejo de Plaga Almacenada</a></h3>

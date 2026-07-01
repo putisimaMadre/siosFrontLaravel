@@ -144,11 +144,11 @@
 				
 				<!-- Slide -->
 				<div class="slide">
-                	<div class="image-layer" style="background-image: url('{{ asset('images/main-slider/3.jpg') }}');">></div>
+                	<div class="image-layer" style="background-image: url('{{ asset('images/main-slider/3.jpeg') }}');">></div>
 					<div class="auto-container">
 						<div class="content">
 							<h2>Protegemos el entorno <br> de su empresa</h2>
-							<div class="text">Desde nuestro inicio, aseguramos la longevidad de sus materias primas y estructuras mediante tratamientos especiales en madera, manejo de plaga almacenada y desinfección patógena de amplio espectro.</div>
+							<div class="text" style="color: black">Desde nuestro inicio, aseguramos la longevidad de sus materias primas y estructuras mediante tratamientos especiales en madera, manejo de plaga almacenada y desinfección patógena de amplio espectro.</div>
 							<div class="btns-box">
 								<a href="{{ url('/servicios') }}" class="theme-btn btn-style-one"><span class="txt">Conocer mas</span></a>
 							</div>

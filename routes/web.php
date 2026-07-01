@@ -1,6 +1,8 @@
 <?php
 
+use App\Models\PdfUpload;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PdfUploadController;
 
 /*
 |--------------------------------------------------------------------------
@@ -53,3 +55,14 @@ Route::get('/tratamientosEspecialesEnMadera', function () {
 Route::get('/manejoDePlagaAlmacenada', function () {
     return view('manejoDePlagaAlmacenada');
 });
+
+// Ruta del menú principal (la nueva pantalla)
+Route::get('/panel-pdf', [PdfUploadController::class, 'menu'])->name('pdf.menu');
+
+// Rutas de carga existentes
+Route::get('/subir-pdf', [PdfUploadController::class, 'index'])->name('pdf.index');
+Route::post('/subir-pdf', [PdfUploadController::class, 'store'])->name('pdf.store');
+
+// NUEVAS RUTAS: Lista y descarga individual por ID
+Route::get('/lista-pdf', [PdfUploadController::class, 'list'])->name('pdf.list');
+Route::get('/descargar-pdf/{id}', [PdfUploadController::class, 'downloadById'])->name('pdf.download.id');

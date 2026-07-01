@@ -164,7 +164,7 @@
 					<div class="image-column col-lg-4 col-md-12 col-sm-12">
 						<div class="inner-column">
 							<div class="image">
-								<img src="images/resource/interior.jpg" alt="" />
+								<img src="images/resource/interior.jpeg" alt="" />
 							</div>
 						</div>
 					</div>
