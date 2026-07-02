@@ -320,6 +320,157 @@
 		</div>
 	</section>
 	<!-- End Services Section Two -->
+
+	<!-- Project Section -->
+	<section class="project-section">
+		<div class="auto-container">
+			<!-- Title Box -->
+			<div class="title-box">
+				<h2>Nuestro Trabajo</h2>
+			</div>
+		</div>
+		
+		<div class="outer-container">
+			
+			<!--Isotope Galery-->
+            <div class="sortable-masonry">
+                
+                <!--Filter-->
+                <div class="filters clearfix">
+                	
+                	<ul class="filter-tabs filter-btns text-center clearfix">
+                        <li class="active filter" data-role="button" data-filter=".all">Todas las fotos</li>
+						<li class="filter" data-role="button" data-filter=".monitoreoYControlDeAves">Monitoreo y Control de Aves</li>
+						<li class="filter" data-role="button" data-filter=".sanidadEInocuidadIndustrial">Sanidad e Inocuidad Industrial</li>
+                    </ul>
+                    
+                </div>
+                
+				<div class="items-container row clearfix">
+				
+					<!-- Gallery Item -->
+					<div class="gallery-item large-block masonry-item all monitoreoYControlDeAves">
+						<div class="inner-box">
+							<figure class="image-box">
+								<img src="images/gallery/aves1.jpeg" alt="">
+								<!--Overlay Box-->
+								<div class="overlay-box">
+									<div class="overlay-inner">
+										<div class="content">
+											<!--<h3><a href="projects-fullwidth.html">Modular Kitchen</a></h3>-->
+											<a href="images/gallery/aves1.jpeg" data-fancybox="gallery-1" data-caption="" class="link"><span class="icon flaticon-magnifying-glass-1"></span></a>
+											<!--<a href="projects-fullwidth.html" class="link"><span class="icon flaticon-unlink"></span></a>-->
+										</div>
+									</div>
+								</div>
+							</figure>
+						</div>
+					</div>
+					
+					<!-- Gallery Item -->
+					<div class="gallery-item small-block masonry-item all monitoreoYControlDeAves">
+						<div class="inner-box">
+							<figure class="image-box">
+								<img src="images/gallery/aves2.jpeg" alt="">
+								<!--Overlay Box-->
+								<div class="overlay-box">
+									<div class="overlay-inner">
+										<div class="content">
+											<!--<h3><a href="projects-fullwidth.html">Modular Kitchen</a></h3>-->
+											<a href="images/gallery/aves2.jpeg" data-fancybox="gallery-1" data-caption="" class="link"><span class="icon flaticon-magnifying-glass-1"></span></a>
+											<!--<a href="projects-fullwidth.html" class="link"><span class="icon flaticon-unlink"></span></a>-->
+										</div>
+									</div>
+								</div>
+							</figure>
+						</div>
+					</div>
+					
+					<!-- Gallery Item -->
+					<div class="gallery-item small-block masonry-item all sanidadEInocuidadIndustrial">
+						<div class="inner-box">
+							<figure class="image-box">
+								<img src="images/gallery/SanidadEInocuidad1.jpeg" alt="">
+								<!--Overlay Box-->
+								<div class="overlay-box">
+									<div class="overlay-inner">
+										<div class="content">
+											<!--<h3><a href="projects-fullwidth.html">Modular Kitchen</a></h3>-->
+											<a href="images/gallery/SanidadEInocuidad1.jpeg" data-fancybox="gallery-1" data-caption="" class="link"><span class="icon flaticon-magnifying-glass-1"></span></a>
+											<!--<a href="projects-fullwidth.html" class="link"><span class="icon flaticon-unlink"></span></a>-->
+										</div>
+									</div>
+								</div>
+							</figure>
+						</div>
+					</div>
+					
+					
+					
+					<!-- Gallery Item -->
+					<div class="gallery-item large-block masonry-item all sanidadEInocuidadIndustrial">
+						<div class="inner-box">
+							<figure class="image-box">
+								<img src="images/gallery/SanidadEInocuidad2.jpeg" alt="">
+								<!--Overlay Box-->
+								<div class="overlay-box">
+									<div class="overlay-inner">
+										<div class="content">
+											<!--<h3><a href="projects-fullwidth.html">Modular Kitchen</a></h3>-->
+											<a href="images/gallery/SanidadEInocuidad2.jpeg" data-fancybox="gallery-1" data-caption="" class="link"><span class="icon flaticon-magnifying-glass-1"></span></a>
+											<!--<a href="projects-fullwidth.html" class="link"><span class="icon flaticon-unlink"></span></a>-->
+										</div>
+									</div>
+								</div>
+							</figure>
+						</div>
+					</div>
+					
+					<!-- Gallery Item -->
+					<div class="gallery-item small-block masonry-item all sanidadEInocuidadIndustrial">
+						<div class="inner-box">
+							<figure class="image-box">
+								<img src="images/gallery/SanidadEInocuidad5.jpeg" alt="">
+								<!--Overlay Box-->
+								<div class="overlay-box">
+									<div class="overlay-inner">
+										<div class="content">
+											<!--<h3><a href="projects-fullwidth.html">Modular Kitchen</a></h3>-->
+											<a href="images/gallery/SanidadEInocuidad5.jpeg" data-fancybox="gallery-1" data-caption="" class="link"><span class="icon flaticon-magnifying-glass-1"></span></a>
+											<!--<a href="projects-fullwidth.html" class="link"><span class="icon flaticon-unlink"></span></a>-->
+										</div>
+									</div>
+								</div>
+							</figure>
+						</div>
+					</div>
+					
+					<!-- Gallery Item -->
+					<div class="gallery-item small-block masonry-item all sanidadEInocuidadIndustrial">
+						<div class="inner-box">
+							<figure class="image-box">
+								<img src="images/gallery/SanidadEInocuidad6.jpeg" alt="">
+								<!--Overlay Box-->
+								<div class="overlay-box">
+									<div class="overlay-inner">
+										<div class="content">
+											<!--<h3><a href="projects-fullwidth.html">Modular Kitchen</a></h3>-->
+											<a href="images/gallery/SanidadEInocuidad6.jpeg" data-fancybox="gallery-1" data-caption="" class="link"><span class="icon flaticon-magnifying-glass-1"></span></a>
+											<!--<a href="projects-fullwidth.html" class="link"><span class="icon flaticon-unlink"></span></a>-->
+										</div>
+									</div>
+								</div>
+							</figure>
+						</div>
+					</div>
+					
+				</div>
+				
+			</div>
+		
+		</div>
+	</section>
+	<!-- End Project Section -->
 	
 	<!-- Call To Action Section -->
 	<section class="call-to-action-section" style="background-image: url(images/background/6.jpg)">
